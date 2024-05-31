@@ -1,0 +1,12 @@
+.display {
+  margin: 10px;
+  /* width: 175px; */
+  font-size: 25px;
+}
+
+.display input {
+  border: none;
+  border-radius: 5px;
+  text-align: right;
+  padding: 0px 5px;
+}

@@ -1,0 +1,31 @@
+.button {
+  margin: 8px 12px;
+  width: 15%;
+  /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+  border-radius: 2px;
+  border: none !important;
+  font-size: 20px;
+  background-color: blue;
+  color: white;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 70%;
+  margin: 0px auto;
+}
+
+.unique {
+  margin: 8px 12px;
+  width: 15%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 2px;
+  border: none !important;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  background-color: gray;
+
+}
